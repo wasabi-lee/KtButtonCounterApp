@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KtButtonCounterApp</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vel nunc interdum, pharetra nibh congue, sollicitudin felis. Ut at tristique mi, sit amet mattis ex. Morbi pellentesque risus a elementum pulvinar. Integer sodales egestas magna, et viverra turpis vulputate egestas. Suspendisse euismod feugiat justo, vel sodales felis congue vel. Nulla facilisi. Nullam convallis blandit erat, interdum tincidunt velit sodales ut. Vivamus mollis rutrum laoreet. Cras non laoreet elit. Suspendisse justo odio, gravida id lorem nec, elementum maximus lectus. Mauris nunc lorem, pulvinar ac urna a, laoreet faucibus ante. Donec mollis orci sed elit maximus placerat. Integer a nisl consectetur, interdum leo mattis, pretium nibh. </string>
+</resources>
